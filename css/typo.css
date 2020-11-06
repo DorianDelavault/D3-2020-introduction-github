@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&family=Noto+Sans+JP:wght@900&family=Poppins:wght@200&display=swap');
+
+p{
+  font-family: 'Poppins', sans-serif;
+  }
+
+h1{
+  font-family: 'Grenze Gotisch', cursive;
+}
+
+h2{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+li{
+  font-family: 'Poppins', sans-serif;
+}

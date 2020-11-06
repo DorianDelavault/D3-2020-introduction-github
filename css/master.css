@@ -1,0 +1,65 @@
+#Fables{
+  background: url(image/livre1.gif);
+  background-color: size;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+body{
+background-image:url(images/fond1.jpg);
+}
+
+h1{
+  font-size: 5em;
+  padding: 1em;
+  justify-content:center;
+align-items: center;
+text-align: center;
+}
+ol{
+  font-size: 1.5em;
+  text-align: center;
+  padding-bottom: 2em;
+}
+p{
+  padding-top: 2em;
+  padding-bottom: 7em;
+  padding-left: 8em;
+  padding-right: 8em;
+  text-align: center;
+}
+h2{
+  padding-left: 1em;
+  text-decoration: underline ;
+  text-align: center;
+}
+
+.hero{
+  float:left;
+  max-width: 11%;
+}
+
+
+.hero2{
+  float:right;
+  max-width: 10%;
+}
+
+.hero3{
+  float:left;
+  max-width: 20%;
+  }
+
+.flable2{
+    background-color: rgb(230,230,230);
+  }
+
+footer{
+  padding: inherit;
+  text-align: center;
+  justify-content:center;
+
+}
+IMG {BORDER-RADIUS:10%;}
